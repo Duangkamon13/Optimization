@@ -1,0 +1,4 @@
+Q3.1. x1: F ; x2: P ; x3: F ; x1 : no ; x2 : sol ; x3 : no
+Q3.2. x1: P ; x2: F ; x3: P ; x1 : no ; x2 : no ; x3 : sol
+Q3.3. x1: F ; x2: P ; x3: F ; x1 : no ; x2 : no ; x3 : no
+Q3.4. x1: F ; x2: F ; x3: P ; x1 : no ; x2 : no ; x3 : sol
